@@ -5,7 +5,7 @@ Explore F5 Application Services v3 (AS3) and the AS3 Configuration Converter (AC
 
 •	How to use AS3 as a declarative endpoint for Virtual Server configuration. 
 
-•	How to convert an existing configuration to AS3 JSON declaration.
+•	How to convert an existing configuration to an AS3 JSON declaration.
 
 Expected time to complete: **30 minutes**
 
