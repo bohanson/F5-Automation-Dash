@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'F5 Automation Dash'
+copyright = '2023, Bob Hanson'
+author = 'Bob Hanson'
 
 release = '0.1'
 version = '0.1.0'
