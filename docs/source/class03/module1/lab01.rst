@@ -32,7 +32,7 @@ Task 1 - Getting connected
 
 #. Add F5 Host
 
-      If ``BIG-IP`` host ``10.1.1.6`` is not listed under ``F5 HOSTS``, click on ``ADD HOST``.
+      If ``BIG-IP`` host ``10.1.1.6`` is not listed under ``F5 HOSTS``, click on ``+ (Add Host)``.
 
       .. image:: ../images/VScode_F5AddHost.jpg
          :scale: 50 %
@@ -59,6 +59,7 @@ Task 1 - Getting connected
       .. image:: ../images/VScode_F5Connect.jpg
          :scale: 100 %
 
+
       When prompted choose ``admin@10.1.1.6`` from the list of choices:
       
       .. image:: ../images/VScode_F5ConnectBIGIP01.jpg
@@ -73,6 +74,7 @@ Task 1 - Getting connected
       .. image:: ../images/VScode_F5ConnectedBIGIP01.jpg
          :scale: 100 %
 
+
       .. NOTE:: The version of ``AS3`` in the graphic could differ from the lab guide. 
         
 
@@ -82,10 +84,11 @@ HTTPS application with SSL Offload
 In this section we will start by using AS3 to build out a basic HTTPS application with
 SSL Offload.
 
-#. Click ``New file`` under the ``Start`` option for ``VS CODE``:
+#. Click the hamburger icon to pull up the ``VS CODE`` menu. Then select ``File`` ->  ``New file``:
 
-   .. image:: ../images/VScode_NewFile.jpg
+   .. image:: ../images/VScode_NewFile.png
       :scale: 50 %
+
 
 #. Copy and paste the AS3 declaration below into the new file window.
 
