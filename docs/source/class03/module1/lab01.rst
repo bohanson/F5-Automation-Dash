@@ -47,7 +47,7 @@ Task 1 - Getting connected
       Click on the newly created host entry in the ``Hosts`` view to connect
 
       .. image:: ../images/lab01_vscode_selectDeviceHostsView.png
-         :scale: 100 %
+         :scale: 50 %
 
       Enter the password of ``admin`` when prompted
       
