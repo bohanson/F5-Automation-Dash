@@ -34,7 +34,7 @@ Task 1 - Getting connected
 
       If ``BIG-IP`` host ``10.1.1.6`` is not listed under ``F5 HOSTS``, click on ``+ (Add Host)``.
 
-      .. image:: ../images/VScode_F5AddHost.jpg
+      .. image:: ../images/VScode_F5AddHost.png
          :scale: 50 %
 
       When prompted, enter: admin@10.1.1.6
@@ -47,7 +47,7 @@ Task 1 - Getting connected
       Click on the newly created host entry in the ``Hosts`` view to connect
 
       .. image:: ../images/lab01_vscode_selectDeviceHostsView.png
-         :scale: 100 %
+         :scale: 50 %
 
       Enter the password of ``admin`` when prompted
       
