@@ -3,7 +3,7 @@ Getting Started
 
 Overview 
 --------------
-Hands-on lab for using F5's declarative tools for configuration: AS3, FAST, ACC.
+Hands-on lab for using F5's declarative tools for configuration: AS3 and ACC.
 
 Prerequisites 
 --------------
@@ -67,5 +67,6 @@ There is also an instance of Firefox, which will be used to validate virtual ser
 #. A new window will open for the VS-Code program.
 
    .. image:: ../images/VScode.jpg
+
 
 
