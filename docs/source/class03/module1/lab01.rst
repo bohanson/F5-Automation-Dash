@@ -87,7 +87,7 @@ SSL Offload.
 #. Click the hamburger icon to pull up the ``VS CODE`` menu. Then select ``File`` ->  ``New file``:
 
    .. image:: ../images/VScode_NewFile.png
-      :scale: 50 %
+      :scale: 100 %
 
 
 #. Copy and paste the AS3 declaration below into the new file window.
