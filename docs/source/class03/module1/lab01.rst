@@ -35,7 +35,7 @@ Task 1 - Getting connected
       If ``BIG-IP`` host ``10.1.1.6`` is not listed under ``F5 HOSTS``, click on ``+ (Add Host)``.
 
       .. image:: ../images/VScode_F5AddHost.jpg
-         :scale: 100 %
+         :scale: 200 %
 
       When prompted, enter: admin@10.1.1.6
 
@@ -87,7 +87,7 @@ SSL Offload.
 #. Click the hamburger icon to pull up the ``VS CODE`` menu. Then select ``File`` ->  ``New file``:
 
    .. image:: ../images/VScode_NewFile.png
-      :scale: 100 %
+      :scale: 200 %
 
 
 #. Copy and paste the AS3 declaration below into the new file window.
