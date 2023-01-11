@@ -47,7 +47,12 @@ Things to keep in mind when migrating applications from TMOS to AS3:
    .. image:: ../images/accfixes.png
       :scale: 60%
 
-#. Connect to Bigip2 (admin@10.1.1.7) and deploy the declaration by right-click, then select ``Post as AS3 declaration``. 
+#. Connect to Bigip2 by repeating the same process as LAB 1. Click on ''+ (ADD HOST)'' and login with admin@10.1.1.7 (password is admin). 
+
+   .. image:: ../images/VSCode_F5AddHost2.png
+      :scale: 100%
+
+#. Deploy the declaration by right-clicking in the text editor and selecting ``Post as AS3 declaration``. 
 
     The process should result in the following:
 
