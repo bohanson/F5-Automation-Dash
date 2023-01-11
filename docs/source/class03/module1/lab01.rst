@@ -28,7 +28,7 @@ Task 1 - Getting connected
       Once connected, click on the ``F5`` logo on the left-hand side of window.
 
       .. image:: ../images/VScode_F5Logo.jpg
-         :scale: 50 %
+         :scale: 100 %
 
 #. Add F5 Host
 
