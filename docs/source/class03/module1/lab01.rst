@@ -28,14 +28,14 @@ Task 1 - Getting connected
       Once connected, click on the ``F5`` logo on the left-hand side of window.
 
       .. image:: ../images/VScode_F5Logo.jpg
-         :scale: 100 %
+         :scale: 50 %
 
 #. Add F5 Host
 
       If ``BIG-IP`` host ``10.1.1.6`` is not listed under ``F5 HOSTS``, click on ``+ (Add Host)``.
 
       .. image:: ../images/VSCode_F5AddHost.png
-         :scale: 50 %
+         :scale: 100 %
 
       When prompted, enter: admin@10.1.1.6
 
