@@ -25,7 +25,7 @@ Things to keep in mind when migrating applications from TMOS to AS3:
    .. image:: ../images/juiceshop.png
       :scale: 60%
 
-#. Right-click in the editor, then select ``Convert with ACC``.  his process takes the text in the editor and attempts to convert it to AS3.  A new editor tab with the converted object should appear:
+#. Select all of the text and right-click in the editor, then select ``Convert with ACC``.  his process takes the text in the editor and attempts to convert it to AS3.  A new editor tab with the converted object should appear:
 
    .. NOTE:: In order to see the two docs side by side click on the highlighted icon in the image below, in the top right corner of VSCode.
        
